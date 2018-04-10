@@ -7,7 +7,9 @@ description: >-
 
 # CfA Brigade IDEA Framework
 
-## Getting Started
+![](.gitbook/assets/idea-framework.png)
+
+## Why a framework for digital inclusion?
 
 _Inclusion_, _Diversity_, _Equity_, and _Accessibility_ aren't just 'nice-to-have' features in the building of civic-technology. They are prerequisites to successful outcomes.
 
