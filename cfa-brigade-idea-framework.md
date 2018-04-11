@@ -1,11 +1,4 @@
----
-description: >-
-  A framework drafted by the CfA Brigade Network on Inclusion, Diversity,
-  Equity, and Accessibility (IDEA) as prerequisites to the outcomes of
-  citizen-driven innovation efforts in the public sector.
----
-
-# CfA Brigade IDEA Framework
+# Getting
 
 ![](.gitbook/assets/idea-framework.png)
 
