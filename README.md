@@ -1,3 +1,5 @@
+*Contributions to this ongoing framework are welcome. Issue a PR to make additions or suggest changes.*
+
 ![The IDEA guide is a project of a Brigade Action Team of the Code for America Brigade Network.](.gitbook/assets/idea-framework%20%281%29.png)
 
 
