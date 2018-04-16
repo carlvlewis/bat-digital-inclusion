@@ -1,8 +1,8 @@
-*Contributions to this ongoing framework are welcome. Issue a PR to make additions or suggest changes.*
+# Introduction
+
+_Contributions to this ongoing framework are welcome. Issue a PR to make additions or suggest changes._
 
 ![The IDEA guide is a project of a Brigade Action Team of the Code for America Brigade Network.](.gitbook/assets/idea-framework%20%281%29.png)
-
-
 
 ## Equity shouldn't be an afterthought in civic-tech
 

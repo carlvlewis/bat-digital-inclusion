@@ -1,6 +1,6 @@
-# Getting
+# Goals
 
-![](.gitbook/assets/idea-framework.png)
+![](../.gitbook/assets/idea-framework.png)
 
 ## Why a framework for digital inclusion?
 
