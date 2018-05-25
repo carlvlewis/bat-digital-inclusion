@@ -1,4 +1,4 @@
-# Introduction
+# The IDEA Framework for Civic-Tech Communities of Practice and Place
 
 _Contributions to this ongoing framework are welcome. Issue a PR to make additions or suggest changes._
 
