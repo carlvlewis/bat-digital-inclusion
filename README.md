@@ -1,3 +1,10 @@
+---
+description: >-
+  This guide seeks to propose a shared framework for working to counteract
+  systemic digital inequity in both the process and the product of civic
+  technology communities of practice and place.
+---
+
 # The IDEA Framework for Civic-Tech Communities of Practice and Place
 
 _Contributions to this ongoing framework are welcome. Issue a PR to make additions or suggest changes._
