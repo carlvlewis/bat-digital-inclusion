@@ -1,8 +1,24 @@
-# Goals
+---
+description: 'Goals, Mission, Definitions, and Scope of this Guide'
+---
+
+# Introduction and Getting Started
 
 ![](../.gitbook/assets/idea-framework.png)
 
-## Why a framework for digital inclusion?
+
+
+## Goals of the IDEA framework
+
+* To codify the role of equity efforts as a core part of civic-technology,
+* To help civic technology communities better reflect the makeup of the entire geographic community in which they operate.
+* To provide overarching definitions and 
+
+## Why a framework for equity?
+
+All 
+
+
 
 _Inclusion_, _Diversity_, _Equity_, and _Accessibility_ aren't just 'nice-to-have' features in the building of civic-technology. They are prerequisites to successful outcomes.
 
