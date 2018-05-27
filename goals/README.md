@@ -6,13 +6,13 @@ description: 'Goals, Mission, Definitions, and Scope of this Guide'
 
 ![](../.gitbook/assets/idea-framework.png)
 
-
-
 ## Goals of the IDEA framework
 
 * To codify the role of equity efforts as a core part of civic-technology,
 * To help civic technology communities better reflect the makeup of the entire geographic community in which they operate.
 * To provide overarching definitions and 
+* To set in place best practices for making civic technology communities more welcoming, 
+* To foster a diversity 
 
 ## Why a framework for equity?
 
