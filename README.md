@@ -33,13 +33,23 @@ In the early days of the Web and even in the early days of the civic-tech moveme
 
  equity, civic innovation
 
-{% tabs %}
-{% tab title="First Tab" %}
+Equality isn't equity
 
+
+
+Civic tech \*must\* figure out IDEA; cannot exclude anyone.
+
+{% tabs %}
+{% tab title="The First Wave of IDEA" %}
++ Acts as if the problems are solely personal behaviors
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="The Second, Coming \(Here?\) Wave" %}
++ Addresses the system
 
++ Design for the margins
+
++ ABCD
 {% endtab %}
 {% endtabs %}
 
