@@ -6,13 +6,25 @@ description: >-
 
 # 2. IDEA: An explication of terms
 
+{% tabs %}
+{% tab title="INCLUSION" %}
 
+{% endtab %}
 
-#### 
+{% tab title="DIVERSITY" %}
 
-#### 
+{% endtab %}
 
-#### The IDEA Framework is geared to civic-tech communities of practice and place – called ‘Brigades’ in Code for America parlance – includes four overarching patterns that civic technology, media, and design organizational leaders should follow as a core part of their day-to-day mission for improving society, not as an afterthought. The four components of the IDEA Framework include: inclusion, diversity, equity, and accessibility. 
+{% tab title="EQUITY" %}
+
+{% endtab %}
+
+{% tab title="ACCESSIBILITY" %}
+
+{% endtab %}
+{% endtabs %}
+
+#### _**The IDEA Framework is geared to civic-tech communities of practice and place – called ‘Brigades’ in Code for America parlance – includes four overarching patterns that civic technology, media, and design organizational leaders should follow as a core part of their day-to-day mission for improving society, not as an afterthought. The four components of the IDEA Framework include: inclusion, diversity, equity, and accessibility.**_ 
 
 Although these four terms have overlap in meaning, each represents a distinctive idea and vision for compensating for systemic inequity from broader civil society.
 
