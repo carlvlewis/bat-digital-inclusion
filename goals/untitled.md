@@ -13,4 +13,4 @@ description: >-
 * To provide overarching definitions and 
 * To set in place best practices for making civic technology communities more welcoming, 
 * To foster a diversity 
-
+* 
