@@ -41,10 +41,18 @@ Civic tech \*must\* figure out IDEA; cannot exclude anyone.
 
 {% tabs %}
 {% tab title="The First Wave of IDEA" %}
-+ Acts as if the problems are solely personal behaviors
+Acts as if the problems are solely personal behaviors
+
+* Diversity sought as an end goal, but only as a token. 
+* Focus is on symptoms of problem, not the root causes of exclusion.
+* 
 {% endtab %}
 
-{% tab title="The Second, Coming \(Here?\) Wave" %}
+{% tab title="The Second Wave of IDEA" %}
+
+{% endtab %}
+
+{% tab title="The Third Wave of IDEA" %}
 + Addresses the system
 
 + Design for the margins
@@ -53,7 +61,7 @@ Civic tech \*must\* figure out IDEA; cannot exclude anyone.
 {% endtab %}
 {% endtabs %}
 
-## be relegated as an afterthought in what we call 'civic-tech'
+## Community immersion cannot be relegated as an afterthought in what we call 'civic-tech'
 
 _&lt;Introductory treatise on why IDEA must come before technology, solution, policy, decision-making&gt;_
 
